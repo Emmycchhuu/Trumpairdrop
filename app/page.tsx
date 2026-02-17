@@ -32,7 +32,7 @@ export default function Page() {
 
           {/* Heading */}
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-4 text-balance">
-            Claim Your <span className="text-primary">$100K</span> Airdrop
+            Claim Your <span className="text-primary">$100m</span> Airdrop
           </h1>
 
           {/* Subheading */}
